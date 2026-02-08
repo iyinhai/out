@@ -1,0 +1,7 @@
+{
+  "name": "出房间 - Elder Care Monitor",
+  "description": "A lightweight application focused on monitoring the outdoor behavior and emotional health of elderly parents through automated exit/entry tracking and AI mood analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
